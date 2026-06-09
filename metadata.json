@@ -1,0 +1,6 @@
+{
+  "name": "CashApp",
+  "description": "A smart personal cash management assistant with AI features to track spending and budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
